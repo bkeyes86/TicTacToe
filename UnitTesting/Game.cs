@@ -65,7 +65,7 @@ namespace Lab04_TicTacToe.Classes
 					turns++;
 
 				}
-
+				Console.Clear();
 			}
 			Board.DisplayBoard();
 			return currentPlayer;
